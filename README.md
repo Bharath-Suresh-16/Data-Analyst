@@ -66,7 +66,7 @@ This query calculates the total revenue and total profit for each year based on 
 - Profit followed a similar trend, rising from 8.5 million in 2016 to 22 million in 2017, and then decreased further to 9.8 million in 2019.
 
 2. Europe contributed the most to revenue and profit, with totals of 35 million and 28.1 million, respectively.
-USA followed closely behind with revenue of 13.5 million and profit of 10.8 million.
+USA followed behind with revenue of 13.5 million and profit of 10.8 million.
 
 ![Screenshot 2024-06-10 121330](https://github.com/Bharath-Suresh-16/Data-Analyst/assets/172239174/3635122f-19f0-4da2-b9b5-6c33d414805c)
 
