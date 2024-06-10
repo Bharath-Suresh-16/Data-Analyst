@@ -4,7 +4,7 @@
 
 This project features a Power BI dashboard designed to provide an in-depth analysis of revenue and profit data. The dashboard offers interactive visualizations, key performance indicators, and customizable filters, enabling users to explore financial trends and gain actionable insights. It serves as a powerful tool for stakeholders to monitor business performance and make data-driven decisions.
 
-![Screenshot 2024-06-10 121330](https://github.com/Bharath-Suresh-16/Data-Analyst/assets/172239174/3635122f-19f0-4da2-b9b5-6c33d414805c)
+
 
 
 ### Data sources:
@@ -67,6 +67,8 @@ This query calculates the total revenue and total profit for each year based on 
 
 2. Europe contributed the most to revenue and profit, with totals of 35 million and 28.1 million, respectively.
 USA followed closely behind with revenue of 13.5 million and profit of 10.8 million.
+
+![Screenshot 2024-06-10 121330](https://github.com/Bharath-Suresh-16/Data-Analyst/assets/172239174/3635122f-19f0-4da2-b9b5-6c33d414805c)
 
 ### Recommendations:
 
